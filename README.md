@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there! I am Lourival Carvalho Junior. 👋
+### Always learning...
 <!--
 **LourivalCarvalho/LourivalCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
